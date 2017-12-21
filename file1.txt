@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Adding some code here
 adding yet more code
 
 =======
 fix1
 >>>>>>> b86cd9e... Added fix1
+=======
+fix1
+>>>>>>> v1.0_fixes
